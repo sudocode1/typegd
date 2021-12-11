@@ -1,0 +1,2 @@
+# typegd
+TypeScript GDPS
